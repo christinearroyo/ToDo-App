@@ -2,7 +2,6 @@ C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\bin\Debug\To
 C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\bin\Debug\ToDo-App.exe
 C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\bin\Debug\ToDo-App.pdb
 C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\obj\Debug\ToDo-App.csproj.AssemblyReference.cache
-C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\obj\Debug\ToDo_App.Form1.resources
 C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\obj\Debug\ToDo_App.Properties.Resources.resources
 C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\obj\Debug\ToDo-App.csproj.GenerateResource.cache
 C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\obj\Debug\ToDo-App.csproj.CoreCompileInputs.cache
@@ -17,3 +16,4 @@ C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\bin\Debug\En
 C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\bin\Debug\System.Data.SQLite.xml
 C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\obj\Debug\ToDo-App.csproj.Up2Date
+C:\Users\chrst\OneDrive\Documents\GitHub\ToDo-App\ToDo-App\ToDo-App\obj\Debug\ToDo_App.LoginForm.resources
